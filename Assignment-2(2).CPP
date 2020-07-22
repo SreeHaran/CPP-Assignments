@@ -1,3 +1,5 @@
+//Question:-C++ program to create student class, read and print N student’s details (Example of array of objects):-
+
 #include <iostream>
 using namespace std;
 int main()
